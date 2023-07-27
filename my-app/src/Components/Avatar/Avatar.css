@@ -1,0 +1,17 @@
+.Avatar
+{
+    width : 6rem;
+    height : 6rem;
+    border:  0.2rem solid grey;
+    border-radius: 2rem;
+    display: flex;
+}
+
+.Avatar>img
+{
+    width : 6rem;
+    height : 6rem;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 2rem;
+}

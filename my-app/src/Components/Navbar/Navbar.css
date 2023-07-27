@@ -1,0 +1,32 @@
+.Navbar
+{
+    margin : 0;
+    width : auto;
+    height: 3rem;
+    background-color : red;
+    display: flex;
+    flex-direction: row;
+    gap : 3rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border: 0.1rem solid black;
+    border-radius: 1rem;
+    margin-top: 1.6rem;
+}
+
+.align-items
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row
+{
+    flex-direction: row;
+}
+
+.column 
+{
+    flex-direction: column;
+}

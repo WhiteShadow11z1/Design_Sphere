@@ -1,0 +1,55 @@
+.Login-Container
+{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+}
+
+.align-center-Login
+{
+    display: flex;
+    align-items: center;
+}
+
+.Form-Container
+{
+    width : 40%;
+}
+
+.Login-Image
+{
+    width : 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Form-Container form
+{
+    flex-direction: column;
+}
+
+.Login-Image-img
+{
+    width : 60%;
+}
+
+
+.Login-input
+{
+    width : 60%;
+    height : 4rem;
+    margin-bottom: 4rem;
+    border-radius: 1rem;
+    border-style: none;
+    border : 0.2rem solid grey;
+}
+
+.Login-button
+{
+    width : 30%;
+    height : 4rem;
+    border-style: none;
+    border : 0.2rem solid grey;
+    border-radius: 1rem;
+}

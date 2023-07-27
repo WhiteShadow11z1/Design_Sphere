@@ -1,0 +1,11 @@
+.User-Posts
+{
+    width : 60%;
+}
+
+.Profile-Card-Extended 
+{
+    display : flex;
+    align-items: center;
+    justify-content: center;
+}

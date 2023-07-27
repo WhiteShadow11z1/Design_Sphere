@@ -1,0 +1,8 @@
+.HomePage
+{
+    display : flex;
+    justify-content: center;
+    align-items : flex-start;
+    align-content: center;
+    gap : 1rem;
+}

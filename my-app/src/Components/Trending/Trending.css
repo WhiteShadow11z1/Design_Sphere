@@ -1,0 +1,53 @@
+.Trending-Container
+{
+    width : 30%;
+    background-color: green;
+    position: sticky;
+    top : 0rem;
+}
+
+.ProfilePicture
+{
+    width : 3rem;
+    height : 3rem;
+    border-radius: 50%;
+}
+
+.LoginCredentials
+{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right : 1rem;
+    gap : 1rem;
+    margin-top : 1.6rem;
+}
+
+
+.LoginUserName
+{
+    margin : 0;
+}
+
+
+.Trending
+{
+    display : flex;
+    flex-direction: column;
+    justify-content : flex-start;
+    padding-left : 1rem;
+    gap : 1rem;
+    margin-top : 4rem;
+    background-color: red;
+    border-radius : 2rem;
+}
+
+.Trending h3
+{
+    margin: 0;
+}
+
+.Trending p
+{
+    margin: 0;
+}
